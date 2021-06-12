@@ -17,5 +17,6 @@ Also Admin panel, which has OTP Verification for logging in.
 ![WhatsApp Image 2021-06-12 at 11 35 03 AM (3)](https://user-images.githubusercontent.com/69072470/121767931-0cbb1280-cb79-11eb-8dc2-304de060184b.jpeg)
 ![WhatsApp Image 2021-06-12 at 11 35 03 AM (4)](https://user-images.githubusercontent.com/69072470/121767936-147ab700-cb79-11eb-8ae1-05f0b541f154.jpeg)
 ![WhatsApp Image 2021-06-12 at 11 35 03 AM (5)](https://user-images.githubusercontent.com/69072470/121767943-1ba1c500-cb79-11eb-85f1-5d35602d34a6.jpeg)
+![WhatsApp Image 2021-06-12 at 1 12 27 PM](https://user-images.githubusercontent.com/69072470/121769212-f2d0fe00-cb7f-11eb-910e-2925611ec3e2.jpeg)
 ![WhatsApp Image 2021-06-12 at 11 35 03 AM (7)](https://user-images.githubusercontent.com/69072470/121767970-396f2a00-cb79-11eb-990f-559453e14d74.jpeg)
 ![WhatsApp Image 2021-06-12 at 11 35 03 AM (6)](https://user-images.githubusercontent.com/69072470/121767961-307e5880-cb79-11eb-8ca9-3e6182fece6e.jpeg)
