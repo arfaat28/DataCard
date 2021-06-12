@@ -1,14 +1,24 @@
 # DataCard
 Data is important for everyone.
+
 So is it for students as well.
+
 So i developed app "Student Data Card".
+
 It consists of Splash Screen and Onboarding Screens.
+
 Then is our registration and login page.
+
 Next our home page.
+
 Data Card has profile and document section.
+
 Document section is the part where student's document can uploaded and saved.
+
 Whereas for profile section it contains students detail.
+
 Data enryption done using SHA-1, SHA-256, MD-5 and AES.
+
 Also Admin panel, which has OTP Verification for logging in.
 
 ![WhatsApp Image 2021-06-12 at 11 35 03 AM](https://user-images.githubusercontent.com/69072470/121767891-d54c6600-cb78-11eb-9051-95ab136260fe.jpeg)
