@@ -48,3 +48,5 @@ ADMIN PANEL :
 ![WhatsApp Image 2021-06-12 at 1 22 52 PM (1)](https://user-images.githubusercontent.com/69072470/121769543-da61e300-cb81-11eb-9b2d-c173ddce4d9a.jpeg)
 
 ![WhatsApp Image 2021-06-12 at 1 22 52 PM (2)](https://user-images.githubusercontent.com/69072470/121769551-e51c7800-cb81-11eb-8dc0-e86974225e18.jpeg)
+
+Database used for storing Data is Firebase.
